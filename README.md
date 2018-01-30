@@ -1,10 +1,10 @@
-Installation
+# Installation
 
 import VueApi from 'vue_api/vue_api'
 
 Vue.use(VueApi)
 
-How to use
+# How to use
 
 this.$api.get('https://jsonplaceholder.typicode.com/posts/1')
 
