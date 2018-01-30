@@ -1,8 +1,10 @@
 # Installation
 
+```
 import VueApi from 'vue_api/vue_api'
 
 Vue.use(VueApi)
+```
 
 # How to use
 
